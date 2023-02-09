@@ -1,15 +1,15 @@
-public class Zombie extends Main{
+package task8;
+
+public class Zombie extends Monster{
     public static String scream = "Raaaauuughhhh";
 
     public Zombie(String name) {
         super(name + " the Zombie", 5);
     }
-    // Overload this method to make SCREAMS
-
 
     @Override
     public void growl(){
-        System.out.println(scream + " Alice the Zombie growled");
+        System.out.print(scream);
         super.growl();
     }
 
@@ -18,7 +18,7 @@ public class Zombie extends Main{
             growl();
         }
         else {
-            System.out.println(scream.toUpperCase()+ " Alice the Zombie growled");
+            System.out.print(scream.toUpperCase());
             super.growl();
         }
     }
