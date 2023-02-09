@@ -1,6 +1,6 @@
 package task6;
 
-import static task6.Zombie.scream;
+
 
 public class Main {
 
