@@ -1,25 +1,18 @@
 package task6;
 
-
-
 public class Main {
 
-   public Main(String s, int i) {
-   }
 
     public static void main(String[] args) {
 /*
 
-You have to overload class task6.Zombie
+You have to overload class Zombie
 
 */
-
-        Zombie zombie = new Zombie("Alice");
-        System.out.println("Monster Alice Zombie was created");
-        zombie.growl();
-        zombie.growl(true);
-        zombie.growl(false);
-
+        Zombie zombie1 = new Zombie("Alice");
+        zombie1.growl();
+        zombie1.growl(true);
+        zombie1.growl(false);
 
 /*
 This fragment of code has to output
@@ -32,11 +25,7 @@ Raaaauuughhhh Alice the Zombie growled
 */
     }
 
-
-    protected void growl() {
-    }
-
-
-//    protected void attack() {
-//    }
 }
+
+
+
