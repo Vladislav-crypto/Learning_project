@@ -1,6 +1,7 @@
 package task8;
 
-public class GiantSnake extends Monster{
+public class GiantSnake extends Monster {
+
     public static String scream = "Ssssss";
 
     public GiantSnake(String name) {
@@ -29,4 +30,5 @@ public class GiantSnake extends Monster{
         super.attack();
         System.out.println("     ...and hid in the grass");
     }
+
 }

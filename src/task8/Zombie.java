@@ -1,6 +1,7 @@
 package task8;
 
-public class Zombie extends Monster{
+public class Zombie extends Monster {
+
     public static String scream = "Raaaauuughhhh";
 
     public Zombie(String name) {
@@ -28,4 +29,5 @@ public class Zombie extends Monster{
         super.attack();
         growl();
     }
+
 }

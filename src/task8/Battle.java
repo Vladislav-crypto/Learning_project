@@ -1,6 +1,8 @@
 package task8;
 
-public class Battle {
+class Battle{
+
+    //TODO
     final static private int MAX = 5;
 
     private Monster[] monsters;
@@ -31,3 +33,4 @@ public class Battle {
         run();
     }
 }
+
