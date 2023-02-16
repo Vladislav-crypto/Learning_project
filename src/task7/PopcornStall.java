@@ -1,12 +1,12 @@
 package task7;
 
-public class Dog extends Animal{
+public class PopcornStall {
     public void print(){
         System.out.println(this);
     }
 
     @Override
     public String toString() {
-        return "I am a Dog";
+        return "It's a PopcornStall";
     }
 }

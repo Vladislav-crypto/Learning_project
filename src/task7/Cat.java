@@ -1,7 +1,12 @@
 package task7;
 
-public class Cat extends Mammal{
+public class Cat extends Animal{
     public void print(){
-        System.out.println("I am a Cat");
+        System.out.println(this);
+    }
+
+    @Override
+    public String toString() {
+        return "I am a Cat";
     }
 }

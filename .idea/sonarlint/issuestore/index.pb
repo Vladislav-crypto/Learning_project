@@ -1,3 +1,19 @@
 
 D
 Learning_project.iml,4\1\415725acad81b7708a66c140b6255987bfcec415
+F
+src/task6/Monster.java,3\4\34527ef8a8c00520aa2475be15eb2508e58ca41c
+E
+src/task6/Zombie.java,7\1\71b25219b17155e9698f2fc7953c214bdfadd0e0
+C
+src/task6/Main.java,2\b\2b92b8c5b64c490ca86b52901e9b80b1bd1fd903
+E
+src/task8/Zombie.java,0\c\0c4a540899fb4d0380d9348f93387e8143f5a73c
+F
+src/task8/Monster.java,d\a\dae73c929d49f101e76226879b84db5c0611e34f
+C
+src/task8/Main.java,3\8\38e4672d0a7041fc412334376795f4e584744e79
+I
+src/task8/GiantSnake.java,7\9\796ef61d9c6f4c991e97f87b44e8bb4a29e2c3e6
+E
+src/task8/Battle.java,7\4\7490e33bafafda3bcb41947e8788da1535242f97
