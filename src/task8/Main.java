@@ -12,11 +12,10 @@ to allow monsters to fight
         battle.add(new Zombie("Alice"));
         battle.add(new Zombie("Bob"));
         battle.add(new Zombie("Eve"));
-        battle.add(new GiantSnake("Kaa"));
-        battle.add(new GiantSnake("Son of Kaa"));
+//        battle.add(new GiantSnake("Kaa"));
+//        battle.add(new GiantSnake("Son of Kaa"));
 
-        battle.add(new Zombie("Noname"));
-        battle.add(new GiantSnake("Noname"));
+
 
         battle.start();
 

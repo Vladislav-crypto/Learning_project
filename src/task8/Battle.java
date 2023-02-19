@@ -1,6 +1,6 @@
 package task8;
 
-class Battle{
+public class Battle{
 
     //TODO
     final static private int MAX = 5;
@@ -8,11 +8,11 @@ class Battle{
     private Monster[] monsters;
     private int n = 0;
 
-    Battle(){
+    public Battle(){
         monsters = new Monster[MAX];
     }
 
-    public void add(Monster monster){
+    public void add(Zombie monster){
         if (n < MAX) {
             monsters[n++] = monster;
         }
