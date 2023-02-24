@@ -27,3 +27,17 @@ E
 src/task7/Animal.java,0\0\0054a990abc480d080741d2d3709a6fe1c8a91a9
 E
 src/task8/Zombie.java,0\c\0c4a540899fb4d0380d9348f93387e8143f5a73c
+E
+src/task8/Battle.java,7\4\7490e33bafafda3bcb41947e8788da1535242f97
+C
+src/task8/Main.java,3\8\38e4672d0a7041fc412334376795f4e584744e79
+E
+src/task9/Battle.java,9\4\94ccda011744b6f25094fafcfab5223a4b478f9c
+I
+src/task9/GiantSnake.java,2\c\2c5a3a4a307296df1c52c4e915730232027a0937
+E
+src/task9/Zombie.java,1\8\189192b460c146e925213e6bab3d4936f15f49a2
+F
+src/task9/Monster.java,d\7\d757312f0845367afe45c51645a3b16249cd50d0
+C
+src/task9/Main.java,8\a\8a506a073405c0ea700463048b3f8940171860ac
