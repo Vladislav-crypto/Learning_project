@@ -1,0 +1,36 @@
+Дан код с использованием try-catch, перепишите данный код с использованием try-with-resources.
+
+public String input() throws MyException {
+    BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+    String s = null;
+    try {
+      s = reader.readLine();
+    } catch (IOException e) {
+      System.out.println(e.getMessage());
+    } finally {
+
+      try {
+        System.out.println(e.getMessage());
+      }
+    }
+
+    if (s.equals("")) {
+      throw new MyException("String can not be empty!");
+      reader.close();
+    } catch (IOException e) {}
+
+    return s;
+}
+Посмотреть ответ для самопроверки
+public String input() throws MyException {
+  String s = null;
+  try (BufferedReader reader = new BufferedReader(new InputStreamReader(System.in))) {
+    s = reader.readLine();
+  } catch (IOException e) {
+    System.out.println(e.getMessage());
+  }
+  if (s.equals("")) {
+    throw new MyException("String can not be empty!");
+  }
+  return s;
+}
