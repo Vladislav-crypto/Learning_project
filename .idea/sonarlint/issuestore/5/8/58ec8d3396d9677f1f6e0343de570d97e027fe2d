@@ -1,0 +1,11 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "Yaris" 3 times.(æÇÎ±
+\
+java:S1192"FDefine a constant instead of duplicating this literal "Camry" 3 times.(ºü÷·
+^
+java:S1192"HDefine a constant instead of duplicating this literal "Corolla" 3 times.(ıÊ¨
+\
+java:S1192"FDefine a constant instead of duplicating this literal "Raw 4" 3 times.(ãë˜œ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è‡Ö”ıÿÿÿÿ
+M	java:S106O"9Replace this use of System.out or System.err by a logger.(ÿ®Ái

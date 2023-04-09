@@ -1,0 +1,20 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èªÏïýÿÿÿÿ
+7
+java:S1110"!Remove these useless parentheses.(óÚÛÊ
+7
+java:S1110"!Remove these useless parentheses.(Õˆ¥–
+N	java:S106"9Replace this use of System.out or System.err by a logger.(á²†½
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼¹Â‹üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰—Ù©þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ª¶¨ý
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+l
+java:S3457)"Q%n should be used in place of \n to produce the platform-specific line separator.(îç¨Ãúÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(îç¨Ãúÿÿÿÿ
+M	java:S106,"9Replace this use of System.out or System.err by a logger.(ßŸ½/
+S	java:S106."9Replace this use of System.out or System.err by a logger.(¿„–éÿÿÿÿÿ
+;
+java:S11654" Make this "firsNum" field final.(°Æê®üÿÿÿÿ
+=
+java:S11655""Make this "secondNum" field final.(µ±ÊÂýÿÿÿÿ
